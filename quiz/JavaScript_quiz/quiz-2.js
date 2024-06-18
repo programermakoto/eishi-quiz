@@ -28,12 +28,12 @@ const questions = [
   },
   // 4
   {
-    question: "仮引数は関数側でしようするものですか?", choices: [
-      "yes",
-      "no",
+    question: "function 関数名()括弧の名称は?", choices: [
+      "実引数",
+      "仮引数",
       "*",
       "*",
-      "*"], answer: "yes"
+      "*"], answer: "仮引数"
   },
   // 5
   {

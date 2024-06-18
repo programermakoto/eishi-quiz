@@ -23,7 +23,7 @@ const questions = [
   "span"], answer: "div" },
 
   { question: "この中でインライン要素はどれですか？", choices: ["a",
-  "h",
+  "h1",
   "p",
   "li",
   "div"], answer: "a" },
@@ -74,7 +74,7 @@ const questions = [
   "tr",
   "tbody",
   "td",
-  "table"], answer: "htable" },
+  "table"], answer: "table" },
 
   { question: "リンク先を別のページで開きたい時、指定する値は?", choices: ["blank",
   "submit",
@@ -149,7 +149,7 @@ const questions = [
   "Shift+ option(alt)",
   "tab"], answer: "commnd (control)+ C" },
 
-  { question: "テキストをコピーしたものを貼り付けたい場合使うコマンドは?", choices: ["commnd (control)+ C",
+  { question: "テキストをペーストしたい場合使うコマンドは?", choices: ["commnd (control)+ C",
   "option",
   "command",
   "Shift+ option(alt)",

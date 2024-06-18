@@ -18,14 +18,6 @@ const questions = [
         "console.log"], answer: "console.log"
     },
     // 3
-    {
-      question: "コンソールにて処理を表示させたい", choices: [
-        "string",
-        "prompt",
-        "printf",
-        "scanf",
-        "console.log"], answer: "console.log"
-    },
     // 4
     {
       question: "演算にて余を出したい時の演算子は?", choices: [

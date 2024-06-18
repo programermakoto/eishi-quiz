@@ -11,11 +11,6 @@ const questions = [
   "table",
   "textarea"], answer: "textarea" },
 
-  { question: "テキストボックスの中に書いてほしいものを添えるタグは?", choices: ["label",
-  "a",
-  "input",
-  "table",
-  "textarea"], answer: "label" },
 
   { question: "labelタグと入力部品を紐付ける属性は?", choices: ["id",
   "type",
@@ -116,13 +111,13 @@ const questions = [
   { question: "ボタンを作るときinputタグを使用せず作るには?", choices: ["input",
   "button",
   "div",
-  "a",
+  "pre",
   "p"], answer: "button" },
 
   { question: "ボタンを配置したいときbottonタグを使用せず作るには?", choices: ["input",
   "button",
   "div",
-  "a",
+  "h1",
   "p"], answer: "input" },
 
   { question: "ボタンでinputタグを使用した時type属性の値は?", choices: ["input",
@@ -137,11 +132,6 @@ const questions = [
   "submit",
   "p"], answer: "value" },
 
-  { question: "inputタグに最初からテキストを指定したい時の属性は?", choices: ["input",
-  "button",
-  "value",
-  "submit",
-  "p"], answer: "value" },
 
   { question: "checkboxに最初から選択済みにする時の属性は?", choices: ["input",
   "button",
