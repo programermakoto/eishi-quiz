@@ -143,23 +143,6 @@ const questions = [
   "htmlとbody",
   "元から100%"], answer: "htmlとbody" },
 
-  { question: "flex-itemをwidthのように指定したい、プロパティは?", choices: ["body",
-  "flex",
-  "html",
-  "htmlとbody",
-  "flex-basis"], answer: "flex-basis" },
-
-  { question: "flex-itemが複数行で上下の余白を埋めたい、プロパティは?", choices: ["flex-content",
-  "flex",
-  "html",
-  "htmlとbody",
-  "flex-basis"], answer: "flex-content" },
-
-  { question: "flex-itemが複数行で上下の余白を埋めたい、flex-contentの値は?", choices: ["flex-content",
-  "flex",
-  "stretch",
-  "htmlとbody",
-  "flex-basis"], answer: "stretch" },
 
   { question: "flex-itemが複数行で上揃えに配置したい、flex-contentの値は?", choices: ["space-around",
   "flex",
